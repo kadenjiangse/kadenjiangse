@@ -6,7 +6,7 @@
 
 📝 I blog about Web Development, Machine Learning, and Vocal Music on [Juejin](https://juejin.cn/user/1607899683498665).
 
-## 🚀 Recent Contributions
+## Recent Contributions
 
 **🔧 Contributed over 30 commits to the [AnbanTech](https://github.com/anbantech) organization**
 
