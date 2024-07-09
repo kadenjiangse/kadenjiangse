@@ -4,7 +4,7 @@
 
 🔭 Currently working as a Web developer intern doing Software security. I applied my expertise to help businesses accelerate their web product development. 
 
-📝 I share my views on Web Development, Machine Learning, and Vocal music at [Juejin](https://juejin.cn/user/1607899683498665)
+📝 I blog about Web Development, Machine Learning, and Vocal music at [Juejin](https://juejin.cn/user/1607899683498665)
 
 [![Kaden Jiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadenjiangse&count_private=true)](https://github.com/kandenjiangse/github-readme-stats)
 
