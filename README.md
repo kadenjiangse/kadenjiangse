@@ -10,6 +10,6 @@
 
 **🔧 Contributed over 30 commits to the [AnbanTech](https://github.com/anbantech) organization**
 
-[![Kaden Jiang's GitHub stats](https://github-readme-stats-git-master-kaden-jiangs-projects.vercel.app/api?username=kadenjiangse&cout_private=true)](https://github.com/kadenjiangse/github-readme-stats)
+[![Kaden Jiang's GitHub stats](https://github-readme-stats-woad-kappa-22.vercel.app/api?username=kadenjiangse)](https://github.com/kadenjiangse/github-readme-stats)
 
 [More about me &rarr;](https://github.com/kadenjiangse)
