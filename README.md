@@ -2,7 +2,7 @@
 
 🎓 I'm currently pursuing a master's degree in Artificial Intelligence, scheduled to graduate in 2025. My research is in Computational Ethology, dedicated to advancing methods for quantifying laboratory animal behavior through machine learning.
 
-🔭 Currently, I'm a Web development intern specializing in Software Security, applying my expertise to help businesses accelerate web product development.
+🔭 Currently, I'm a Web development intern specializing in Education, applying my expertise to help businesses accelerate web product development.
 
 📝 I blog about Web Development, Machine Learning, and Vocal Music on [Juejin](https://juejin.cn/user/1607899683498665).
 
