@@ -1,8 +1,8 @@
-👋 Hi! I'm **Kaden Jiang**, a self-taught Web Development Engineer with a deep passion for technology and software products. My primary focus is on Web development and Machine Learning.
+👋 Hi! I'm **Kaden**, an AI Full-Stack Engineer with a background in Artificial Intelligence and Machine Learning.
 
-🎓 I'm currently pursuing a master's degree in Artificial Intelligence, scheduled to graduate in 2025. My research is in Computational Ethology, dedicated to advancing methods for quantifying laboratory animal behavior through machine learning.
+🚀 I build AI-native products for education across learning experiences, content creation, and teaching workflows.
 
-🔭 Currently, I'm a Web development intern specializing in Education, applying my expertise to help businesses accelerate web product development.
+🎨 I'm exploring **Agentic Video Editing** and **Generative Image Editing** to make creative expression more accessible and everyday life more joyful.
 
 
 ## Recent Contributions
